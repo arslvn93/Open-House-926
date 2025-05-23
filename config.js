@@ -1,4 +1,4 @@
-{
+const config = {
   "property": {
     "streetAddress": "80 John St #2912",
     "city": "Toronto",
@@ -93,6 +93,6 @@
     "repoName": "Open-House-926",
     "repoUrl": "https://github.com/arslvn93/Open-House-926",
     "tag": "Open House 80 John St #2912 Toronto ON",
-    "siteId": "989155550"
+    "siteId": "1f6a27ac-8c0d-4893-805b-186fe9b09076"
   }
 }
